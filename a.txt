@@ -1,3 +1,4 @@
 aaaa
 bbbb
-creat a new branch dev & simple
+<<<<<<< HEAD
+creat a new branch dev AND simple
